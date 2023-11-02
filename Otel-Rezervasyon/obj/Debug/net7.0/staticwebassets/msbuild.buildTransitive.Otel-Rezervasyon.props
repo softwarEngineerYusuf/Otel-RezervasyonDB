@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Otel-Rezervasyon.props" />
+</Project>
